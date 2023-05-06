@@ -1,0 +1,108 @@
+  
+h1 {
+    color: beige;
+    text-align: center;
+    font-family: Arial
+}
+
+h5 {
+  color: beige;
+  text-align: center ;
+  font-size: 40;
+  
+  font-family: Arial;
+
+}
+
+h3 {
+    color: beige;
+    text-align: center;
+    font-family: Arial
+}
+
+h6 {
+    color: beige;
+    text-align: center ;
+    font-size: 55;
+    
+    font-family: Arial;
+    line-height: 0%;
+   
+    
+}
+
+hr {
+    height:5px;
+    border-width:0;
+    background-color:beige;
+    line-height: 0%;
+  }
+
+.topnav {
+    background-color: beige;
+    overflow: hidden;
+  }
+  
+  
+  .topnav a {
+    float: left;
+    color: #622F22;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  
+  .topnav a:hover {
+    background-color: green;
+    color: white;
+  }
+  
+  
+  .topnav a.active {
+    background-color: blue;
+    color: beige;
+  }
+
+body {
+    background-color:#622F22;
+    text-align: center;
+    font-family: Arial;
+    line-height: 0
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+    width: 100%;
+}
+
